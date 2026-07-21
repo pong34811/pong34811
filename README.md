@@ -36,7 +36,7 @@ Bash        ███░░░░░░░░░░░░░░░░░░░�
 ## WakaTime — All Time
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total-494_hrs-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/All_Time-494_hrs-6C63FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Avg-1h_05m/day-6C63FF?style=for-the-badge" />
 </p>
 
@@ -50,7 +50,7 @@ Markdown    █████░░░░░░░░░░░░░░░░░�
 <p align="center">
   <img src="https://img.shields.io/badge/Editor-VS_Code_412h-6C63FF?style=flat-square" />
   <img src="https://img.shields.io/badge/Editor-Antigravity_43h-6C63FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Top%20Project-traztru--backend_475h-3776AB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Project-traztru--backend_475h-3776AB?style=flat-square" />
 </p>
 
 ---
