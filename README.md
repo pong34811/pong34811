@@ -15,14 +15,22 @@ Dev สาย Automation จาก Thailand<br/>
 
 ## WakaTime — สัปดาห์นี้
 
-| Language / Project | Time |
-|--------------------|------|
-| 🐍 Python | 2h 14m (56%) |
-| 🟨 JavaScript | 1h 27m (36%) |
-| 📦 JSON | 15m (7%) |
-| 📝 Markdown | 2m (1%) |
-| **Total** | 3h 59m · 59m/day |
-| **Main project** | traztru-backend (48%) / traztru-frontend (43%) |
+<p align="center">
+  <img src="https://img.shields.io/badge/Total-3h_59m-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Daily_avg-59m-6C63FF?style=for-the-badge" />
+</p>
+
+```
+Python      ████████████████████████░  56%    2h 14m
+JavaScript  ███████████████░░░░░░░░░░  36%    1h 27m
+JSON        ███░░░░░░░░░░░░░░░░░░░░░░   7%      15m
+Markdown    ░░░░░░░░░░░░░░░░░░░░░░░░░   1%       2m
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Main%20project-traztru--backend-3776AB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Main%20project-traztru--frontend-F7DF1E?style=flat-square" />
+</p>
 
 ---
 
