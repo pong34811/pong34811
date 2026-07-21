@@ -1,57 +1,138 @@
-# 👋 สวัสดี! ผมน้องเค404 (KATY_404)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=KATY_404;Dev+%C3%97+Creator;Python+%C2%B7+JavaScript+%C2%B7+Automation" alt="Typing SVG" />
+</p>
 
-**นักศึกษาชายวัย 23 | Developer & Content Creator**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pong34811&label=คนที่แวะมา&color=6C63FF&style=flat" alt="visitor counter" />
+  <img src="https://img.shields.io/github/followers/pong34811?label=Followers&style=social" alt="followers" />
+</p>
 
 ---
+
+## 👋 สวัสดีครับ! ผมน้องเค404
+
+<table>
+<tr>
+<td width="60%">
 
 ### 🎯 เกี่ยวกับผม
-- 💻 นักเขียนโค้ดสาย Automation — Python, JavaScript
-- 📹 ครีเอเตอร์สายเทคที่ช่อง [KATY_404](https://youtube.com/@KATY_404)
-- 🤖 ชอบทำ Tools สำหรับ YouTube โดยเฉพาะ (แชทสด, ตัดคลิป, อัปโหลด)
+- 💻 **Dev** สาย Automation — Python, JavaScript
+- 📹 **Content Creator** ที่ [KATY_404](https://youtube.com/@KATY_404)
+- 🤖 ชอบทำ Tools สำหรับ YouTube (แชทสด, ตัดคลิป, อัปโหลด)
 - 🌙 เป็นคนรักสงบ ชอบอยู่กับโค้ดและคอนเทนต์
+- 🎂 อายุ 23 | ชาย | อยู่ Thailand 🇹🇭
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pong34811&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="100%" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🔧 โปรเจคเด่น
+## 🛠️ Skills & Tools
 
-| โปรเจค | คำอธิบาย |
-|--------|----------|
-| [pychat-youtubelive](https://github.com/pong34811/pychat-youtubelive) | อ่านแชท YouTube Live แบบ Real-time |
-| [youtube-manager](https://github.com/pong34811/youtube-manager) | จัดการคอนเทนต์ YouTube ด้วย Vite + React |
-| [ai-skil-viral-cut](https://github.com/pong34811/ai-skil-viral-cut) | ตรวจจับช่วงไวรัลจากคลิปด้วย AI |
-| [auto-cut_google-sheets](https://github.com/pong34811/auto-cut_google-sheets) | ตัดคลิปอัตโนมัติผ่าน Google Sheets |
-| [Katy404website](https://github.com/pong34811/Katy404website) | เว็บไซต์ส่วนตัว KATY_404 |
-| [youtube-upload](https://github.com/pong34811/youtube-upload) | อัปโหลดวิดีโอขึ้น YouTube อัตโนมัติ |
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pong34811&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pong34811&layout=compact&theme=tokyonight)
-
-### ⏱️ WakaTime Stats (สัปดาห์นี้)
-
-![WakaTime Badge](https://wakatime.com/badge/user/1e5abd91-095a-4b62-bded-8eea82c90849.svg)
-
-| ภาษา | เวลา |
-|------|------|
-| 🐍 Python | 2 ชม. 14 น. |
-| 🟨 JavaScript | 1 ชม. 27 น. |
-| 📦 JSON | 15 น. |
-| 📝 Markdown | 2 น. |
-
-**รวม:** 3 ชม. 59 น. | เฉลี่ยวันละ 59 น.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+</p>
 
 ---
 
-### 📺 ติดตามผลงานได้ที่
-- **YouTube:** [KATY_404](https://youtube.com/@KATY_404)
-- **GitHub:** [pong34811](https://github.com/pong34811)
+## 🔧 โปรเจคเด่น
+
+<table>
+<tr>
+<th width="33%">🤖 YouTube Tools</th>
+<th width="33%">🌐 Web Apps</th>
+<th width="34%">⚙️ Automation</th>
+</tr>
+<tr>
+<td>
+
+• [pychat-youtubelive](https://github.com/pong34811/pychat-youtubelive) — อ่านแชทสด Real-time ⭐  
+• [youtube-manager](https://github.com/pong34811/youtube-manager) — จัดการคอนเทนต์ React  
+• [ai-skil-viral-cut](https://github.com/pong34811/ai-skil-viral-cut) — ตัดคลิปไวรัลด้วย AI  
+• [youtube-upload](https://github.com/pong34811/youtube-upload) — อัปโหลดวิดีโออัตโนมัติ  
+
+</td>
+<td>
+
+• [Katy404website](https://github.com/pong34811/Katy404website) — เว็บไซต์ส่วนตัว  
+• [research_app](https://github.com/pong34811/research_app) 🔸  
+• [kayna](https://github.com/pong34811/kayna)  
+
+</td>
+<td>
+
+• [auto-cut_google-sheets](https://github.com/pong34811/auto-cut_google-sheets) — ตัดคลิปผ่าน Sheets  
+• [webapp_upload](https://github.com/pong34811/webapp_upload)  
+• [youtube-data](https://github.com/pong34811/youtube-data)  
+• [download-video](https://github.com/pong34811/download-video)  
+
+</td>
+</tr>
+</table>
 
 ---
 
-```
-🎯 Focusing — ทีละก้าว
-```
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pong34811&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pong34811&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pong34811&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" width="90%" />
+</p>
+
+---
+
+## ⏱️ WakaTime — สัปดาห์นี้
+
+<p align="center">
+  <img src="https://wakatime.com/badge/user/1e5abd91-095a-4b62-bded-8eea82c90849.svg" />
+</p>
+
+| รายการ | รายละเอียด |
+|--------|-----------|
+| 🕐 **เวลาที่เขียนโค้ด** | 3 ชม. 59 น. (เฉลี่ยวันละ 59 น.) |
+| 🐍 **Python** | 2 ชม. 14 น. (56%) |
+| 🟨 **JavaScript** | 1 ชม. 27 น. (36%) |
+| 📦 **JSON** | 15 น. (7%) |
+| 📝 **Markdown** | 2 น. (1%) |
+| 🖥️ **โปรเจคหลัก** | traztru-backend (48%), traztru-frontend (43%) |
+
+---
+
+## 📫 ช่องทางติดตาม
+
+<p align="center">
+  <a href="https://youtube.com/@KATY_404">
+    <img src="https://img.shields.io/badge/YouTube_KATY_404-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://github.com/pong34811">
+    <img src="https://img.shields.io/badge/GitHub_pong34811-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>🎯 Focusing — ทีละก้าว</i>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
+</p>
