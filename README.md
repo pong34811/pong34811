@@ -12,6 +12,31 @@ Dev สาย Automation จาก Thailand<br/>
 </p>
 ---
 
+## WakaTime — วันนี้
+
+<!-- START_WAKA_TODAY -->
+<p align="center">
+  <img src="https://wakatime.com/badge/user/1e5abd91-095a-4b62-bded-8eea82c90849.svg" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Today-2%20hrs%2032%20mins-6C63FF?style=for-the-badge" />
+</p>
+
+```
+Other      ███████████████████████████████░░░░░░░░░  78%   1h 59m
+JSON       ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   9%      13m
+Markdown   ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   8%      12m
+Bash       ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   5%       7m
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Editor-Edge%202h 3m-0078D7?style=flat-square" />  <img src="https://img.shields.io/badge/Editor-VS%20Code%2029m-6C63FF?style=flat-square" />
+</p>
+<!-- END_WAKA_TODAY -->
+
+---
+
 ## WakaTime — All Time
 
 <p align="center">
