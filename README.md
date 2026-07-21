@@ -31,6 +31,19 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pong34811&layout=compact&theme=tokyonight)
 
+### ⏱️ WakaTime Stats (สัปดาห์นี้)
+
+![WakaTime Badge](https://wakatime.com/badge/user/1e5abd91-095a-4b62-bded-8eea82c90849.svg)
+
+| ภาษา | เวลา |
+|------|------|
+| 🐍 Python | 2 ชม. 14 น. |
+| 🟨 JavaScript | 1 ชม. 27 น. |
+| 📦 JSON | 15 น. |
+| 📝 Markdown | 2 น. |
+
+**รวม:** 3 ชม. 59 น. | เฉลี่ยวันละ 59 น.
+
 ---
 
 ### 📺 ติดตามผลงานได้ที่
