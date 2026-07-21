@@ -22,6 +22,8 @@ Dev สาย Automation จาก Thailand<br/>
 </p>
 
 ```
+📅 4 days coding     Total: 3h 59m     Avg: 59m/day
+
 Python      ████████████████████████░  56%    2h 14m
 JavaScript  ███████████████░░░░░░░░░░  36%    1h 27m
 JSON        ███░░░░░░░░░░░░░░░░░░░░░░   7%      15m
