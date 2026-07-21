@@ -20,19 +20,19 @@ Dev สาย Automation จาก Thailand<br/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Today-2h_05m-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Today-2h_22m-6C63FF?style=for-the-badge" />
 </p>
 
 ```
-Other       ████████████████████████████████  73%   1h 31m
-JSON        █████░░░░░░░░░░░░░░░░░░░░░░░░░░░  11%     13m
-Markdown    █████░░░░░░░░░░░░░░░░░░░░░░░░░░░  10%     12m
-Bash        ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   6%      7m
+Other       █████████████████████████████████████  77%   1h 50m
+JSON        ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   9%     13m
+Markdown    ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   9%     13m
+Bash        ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   5%      7m
 ```
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Editor-Edge_1h_35m-0078D7?style=flat-square" />
-  <img src="https://img.shields.io/badge/Editor-VS_Code_29m-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Editor-Edge_1h_53m-0078D7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Editor-VS_Code_30m-6C63FF?style=flat-square" />
 </p>
 
 ---
