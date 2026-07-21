@@ -33,6 +33,28 @@ Bash        ███░░░░░░░░░░░░░░░░░░░�
 
 ---
 
+## WakaTime — All Time
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Total-494_hrs-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Avg-1h_05m/day-6C63FF?style=for-the-badge" />
+</p>
+
+```
+Python      ████████████████████████████████  61%    263h
+JavaScript  ██████████████░░░░░░░░░░░░░░░░░░  21%     92h
+Image(SVG)  ██████░░░░░░░░░░░░░░░░░░░░░░░░░░  10%     42h
+Markdown    █████░░░░░░░░░░░░░░░░░░░░░░░░░░░   8%     33h
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Editor-VS_Code_412h-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Editor-Antigravity_43h-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Top%20Project-traztru--backend_475h-3776AB?style=flat-square" />
+</p>
+
+---
+
 ## Skills & Tools
 
 <table>
