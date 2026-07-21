@@ -13,24 +13,22 @@ Dev สาย Automation จาก Thailand<br/>
 
 ---
 
-## WakaTime — สัปดาห์นี้
+## WakaTime — วันนี้
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total-3h_59m-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Days-4_days-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Daily_avg-59m-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Today-1h_27m-6C63FF?style=for-the-badge" />
 </p>
 
 ```
-Python      ████████████████████████░  56%    2h 14m    3 days
-JavaScript  ███████████████░░░░░░░░░░  36%    1h 27m    2 days
-JSON        ███░░░░░░░░░░░░░░░░░░░░░░   7%      15m    1 day
-Markdown    ░░░░░░░░░░░░░░░░░░░░░░░░░   1%       2m    1 day
+Other       ████████████████████████░░  62%     53m
+JSON        ██████░░░░░░░░░░░░░░░░░░░  15%     13m
+Markdown    █████░░░░░░░░░░░░░░░░░░░░  14%     12m
+Bash        ███░░░░░░░░░░░░░░░░░░░░░░   8%      7m
 ```
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Main%20project-traztru--backend-3776AB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Main%20project-traztru--frontend-F7DF1E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Editor-Edge_57m-0078D7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Editor-VS_Code_29m-6C63FF?style=flat-square" />
 </p>
 
 ---
