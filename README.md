@@ -17,6 +17,7 @@ Dev สาย Automation จาก Thailand<br/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Total-3h_59m-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Days-4_days-6C63FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Daily_avg-59m-6C63FF?style=for-the-badge" />
 </p>
 
