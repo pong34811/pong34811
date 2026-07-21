@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=KATY_404;Dev+%C3%97+Creator;Python+%C2%B7+JavaScript+%C2%B7+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=KATY_404;Dev+%C3%97+Creator;Python+%C2%B7+JavaScript+%C2%B7+Automation" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,25 +11,12 @@
 
 ## 👋 สวัสดีครับ! ผมน้องเค404
 
-<table>
-<tr>
-<td width="60%">
-
 ### 🎯 เกี่ยวกับผม
 - 💻 **Dev** สาย Automation — Python, JavaScript
 - 📹 **Content Creator** ที่ [KATY_404](https://youtube.com/@KATY_404)
 - 🤖 ชอบทำ Tools สำหรับ YouTube (แชทสด, ตัดคลิป, อัปโหลด)
 - 🌙 เป็นคนรักสงบ ชอบอยู่กับโค้ดและคอนเทนต์
 - 🎂 อายุ 23 | ชาย | อยู่ Thailand 🇹🇭
-
-</td>
-<td width="40%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pong34811&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="100%" />
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -92,29 +79,23 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pong34811&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pong34811&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pong34811&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" width="90%" />
+  <img src="https://streak-stats.demolab.com/?user=pong34811&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
-## ⏱️ WakaTime — สัปดาห์นี้
-
-<p align="center">
-  <img src="https://wakatime.com/badge/user/1e5abd91-095a-4b62-bded-8eea82c90849.svg" />
-</p>
+## ⏱️ WakaTime Coding Stats
 
 | รายการ | รายละเอียด |
 |--------|-----------|
-| 🕐 **เวลาที่เขียนโค้ด** | 3 ชม. 59 น. (เฉลี่ยวันละ 59 น.) |
+| 🕐 **เวลาที่เขียนโค้ด (สัปดาห์นี้)** | 3 ชม. 59 น. (เฉลี่ยวันละ 59 น.) |
 | 🐍 **Python** | 2 ชม. 14 น. (56%) |
 | 🟨 **JavaScript** | 1 ชม. 27 น. (36%) |
 | 📦 **JSON** | 15 น. (7%) |
 | 📝 **Markdown** | 2 น. (1%) |
 | 🖥️ **โปรเจคหลัก** | traztru-backend (48%), traztru-frontend (43%) |
+
+> 💡 เปิด "Display coding activity publicly" ที่ [wakatime.com/settings](https://wakatime.com/settings) เพื่อแสดง Badge สถิติแบบ Real-time
 
 ---
 
