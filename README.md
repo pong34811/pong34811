@@ -22,10 +22,10 @@ Dev สาย Automation จาก Thailand<br/>
 </p>
 
 ```
-Python      ████████████████████████░  56%    2h 14m    ~34m/day
-JavaScript  ███████████████░░░░░░░░░░  36%    1h 27m    ~22m/day
-JSON        ███░░░░░░░░░░░░░░░░░░░░░░   7%      15m     ~4m/day
-Markdown    ░░░░░░░░░░░░░░░░░░░░░░░░░   1%       2m     ~1m/day
+Python      ████████████████████████░  56%    2h 14m    3 days
+JavaScript  ███████████████░░░░░░░░░░  36%    1h 27m    2 days
+JSON        ███░░░░░░░░░░░░░░░░░░░░░░   7%      15m    1 day
+Markdown    ░░░░░░░░░░░░░░░░░░░░░░░░░   1%       2m    1 day
 ```
 
 <p align="center">
