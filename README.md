@@ -1,26 +1,19 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=KATY_404;Dev+%C3%97+Creator;Python+%C2%B7+JavaScript+%C2%B7+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=KATY_404+%C2%B7+pong34811;Dev+%C3%97+Creator;Python+%C2%B7+JavaScript+%C2%B7+Automation" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pong34811&label=คนที่แวะมา&color=6C63FF&style=flat" alt="visitor counter" />
-  <img src="https://img.shields.io/github/followers/pong34811?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/github/followers/pong34811?style=social&label=Followers" />
+</p>
+
+<p align="center">
+Dev สาย Automation จาก Thailand<br/>
+ชอบทำ Tools ให้ YouTube และครีเอเตอร์
 </p>
 
 ---
 
-## 👋 สวัสดีครับ! ผมน้องเค404
-
-### 🎯 เกี่ยวกับผม
-- 💻 **Dev** สาย Automation — Python, JavaScript
-- 📹 **Content Creator** ที่ [KATY_404](https://youtube.com/@KATY_404)
-- 🤖 ชอบทำ Tools สำหรับ YouTube (แชทสด, ตัดคลิป, อัปโหลด)
-- 🌙 เป็นคนรักสงบ ชอบอยู่กับโค้ดและคอนเทนต์
-- 🎂 อายุ 23 | ชาย | อยู่ Thailand 🇹🇭
-
----
-
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 <table>
 <tr>
@@ -51,12 +44,9 @@
 </td>
 </tr>
 </table>
-
 ---
 
-
-
-## 📊 GitHub Stats
+## Stats
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/pong34811?style=for-the-badge&logo=github&label=Followers&color=6C63FF" />
@@ -65,36 +55,26 @@
 
 ---
 
-## ⏱️ WakaTime Coding Stats
+## WakaTime — สัปดาห์นี้
 
-| รายการ | รายละเอียด |
-|--------|-----------|
-| 🕐 **เวลาที่เขียนโค้ด (สัปดาห์นี้)** | 3 ชม. 59 น. (เฉลี่ยวันละ 59 น.) |
-| 🐍 **Python** | 2 ชม. 14 น. (56%) |
-| 🟨 **JavaScript** | 1 ชม. 27 น. (36%) |
-| 📦 **JSON** | 15 น. (7%) |
-| 📝 **Markdown** | 2 น. (1%) |
-| 🖥️ **โปรเจคหลัก** | traztru-backend (48%), traztru-frontend (43%) |
-
-> 💡 เปิด "Display coding activity publicly" ที่ [wakatime.com/settings](https://wakatime.com/settings) เพื่อแสดง Badge สถิติแบบ Real-time
+| Language / Project | Time |
+|--------------------|------|
+| 🐍 Python | 2h 14m (56%) |
+| 🟨 JavaScript | 1h 27m (36%) |
+| 📦 JSON | 15m (7%) |
+| 📝 Markdown | 2m (1%) |
+| **Total** | 3h 59m · 59m/day |
+| **Main project** | traztru-backend (48%) / traztru-frontend (43%) |
 
 ---
 
-## 📫 ช่องทางติดตาม
+## Connect
 
 <p align="center">
   <a href="https://youtube.com/@KATY_404">
-    <img src="https://img.shields.io/badge/YouTube_KATY_404-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-KATY_404-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://github.com/pong34811">
-    <img src="https://img.shields.io/badge/GitHub_pong34811-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-pong34811-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <i>🎯 Focusing — ทีละก้าว</i>
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
 </p>
