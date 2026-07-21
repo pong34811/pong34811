@@ -10,31 +10,6 @@
 Dev สาย Automation จาก Thailand<br/>
 ชอบทำ Tools ให้ YouTube และครีเอเตอร์
 </p>
-
----
-
-## WakaTime — วันนี้
-
-<p align="center">
-  <img src="https://wakatime.com/badge/user/1e5abd91-095a-4b62-bded-8eea82c90849.svg" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Today-2h_22m-6C63FF?style=for-the-badge" />
-</p>
-
-```
-Other       █████████████████████████████████████  77%   1h 50m
-JSON        ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   9%     13m
-Markdown    ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   9%     13m
-Bash        ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   5%      7m
-```
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Editor-Edge_1h_53m-0078D7?style=flat-square" />
-  <img src="https://img.shields.io/badge/Editor-VS_Code_30m-6C63FF?style=flat-square" />
-</p>
-
 ---
 
 ## WakaTime — All Time
