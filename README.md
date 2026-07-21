@@ -37,6 +37,7 @@ Bash        ███░░░░░░░░░░░░░░░░░░░�
 
 <p align="center">
   <img src="https://img.shields.io/badge/All_Time-494_hrs-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Days-456_days-6C63FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Avg-1h_05m/day-6C63FF?style=for-the-badge" />
 </p>
 
