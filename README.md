@@ -38,42 +38,7 @@
 
 ---
 
-## 🔧 โปรเจคเด่น
 
-<table>
-<tr>
-<th width="33%">🤖 YouTube Tools</th>
-<th width="33%">🌐 Web Apps</th>
-<th width="34%">⚙️ Automation</th>
-</tr>
-<tr>
-<td>
-
-• [pychat-youtubelive](https://github.com/pong34811/pychat-youtubelive) — อ่านแชทสด Real-time ⭐  
-• [youtube-manager](https://github.com/pong34811/youtube-manager) — จัดการคอนเทนต์ React  
-• [ai-skil-viral-cut](https://github.com/pong34811/ai-skil-viral-cut) — ตัดคลิปไวรัลด้วย AI  
-• [youtube-upload](https://github.com/pong34811/youtube-upload) — อัปโหลดวิดีโออัตโนมัติ  
-
-</td>
-<td>
-
-• [Katy404website](https://github.com/pong34811/Katy404website) — เว็บไซต์ส่วนตัว  
-• [research_app](https://github.com/pong34811/research_app) 🔸  
-• [kayna](https://github.com/pong34811/kayna)  
-
-</td>
-<td>
-
-• [auto-cut_google-sheets](https://github.com/pong34811/auto-cut_google-sheets) — ตัดคลิปผ่าน Sheets  
-• [webapp_upload](https://github.com/pong34811/webapp_upload)  
-• [youtube-data](https://github.com/pong34811/youtube-data)  
-• [download-video](https://github.com/pong34811/download-video)  
-
-</td>
-</tr>
-</table>
-
----
 
 ## 📊 GitHub Stats
 
