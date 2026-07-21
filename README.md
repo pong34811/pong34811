@@ -65,14 +65,6 @@ Markdown    ░░░░░░░░░░░░░░░░░░░░░░�
 </td>
 </tr>
 </table>
----
-
-## Stats
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/pong34811?style=for-the-badge&logo=github&label=Followers&color=6C63FF" />
-  <img src="https://img.shields.io/badge/Achievements-Quickdraw+%7C+Pull+Shark+x2+%7C+YOLO-6C63FF?style=for-the-badge" />
-</p>
 
 ---
 
