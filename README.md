@@ -78,8 +78,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pong34811&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=pong34811&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://img.shields.io/github/followers/pong34811?style=for-the-badge&logo=github&label=Followers&color=6C63FF" />
+  <img src="https://img.shields.io/badge/Achievements-Quickdraw+%7C+Pull+Shark+x2+%7C+YOLO-6C63FF?style=for-the-badge" />
 </p>
 
 ---
