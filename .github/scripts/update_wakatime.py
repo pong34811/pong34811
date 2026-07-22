@@ -2,11 +2,12 @@ import os
 import requests
 import re
 
-# ดึงข้อมูลจาก WakaTime API
+# ดึงข้อมูลจาก WakaTime API (cache=false เพื่อให้ได้ข้อมูลล่าสุด)
 api_key = os.environ['WAKATIME_API_KEY']
 response = requests.get(
     'https://wakatime.com/api/v1/users/current/status_bar/today',
-    auth=(api_key, '')
+    auth=(api_key, ''),
+    params={'cache': 'false'}
 )
 data = response.json()['data']
 
