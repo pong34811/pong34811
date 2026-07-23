@@ -20,7 +20,7 @@ Dev สาย Automation จาก Thailand<br/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Today-0h_0m-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Today-0%20secs-6C63FF?style=for-the-badge" />
 </p>
 
 ```
@@ -28,8 +28,7 @@ Dev สาย Automation จาก Thailand<br/>
 ```
 
 <p align="center">
-
-
+  
 </p>
 <!-- END_WAKA_TODAY -->
 
