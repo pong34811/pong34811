@@ -28,8 +28,13 @@ def main():
     today = fetch("/users/current/summaries?range=today")
     td = today["data"][0]
     gt = td["grand_total"]
-    today_total = gt["text"]
     today_secs = gt["total_seconds"]
+
+    if not today_secs:
+        print("No data today, skipping update")
+        return
+
+    today_total = gt["text"]
 
     langs = td["languages"]
     langs.sort(key=lambda x: x["total_seconds"], reverse=True)
