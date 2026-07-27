@@ -20,18 +20,18 @@ Dev สาย Automation จาก Thailand<br/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Today-5%20hrs%2048%20mins-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Today-9%20hrs%2047%20mins-6C63FF?style=for-the-badge" />
 </p>
 
 ```
-Other      ████████████████████████░░░░░░░░░░░░░░░░  61%   3h 33m
-Python     ███████████████░░░░░░░░░░░░░░░░░░░░░░░░░  37%    2h 8m
-Markdown   █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   2%       6m
-Bash       ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0%       0m
+Other      █████████████████████████████░░░░░░░░░░░  72%   6h 59m
+Python     █████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  23%   2h 13m
+Text       ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   5%      28m
+Markdown   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   1%       6m
 ```
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Editor-Edge%203h 40m-0078D7?style=flat-square" />  <img src="https://img.shields.io/badge/Editor-VS%20Code%202h 8m-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Editor-Edge%207h 7m-0078D7?style=flat-square" />  <img src="https://img.shields.io/badge/Editor-VS%20Code%202h 39m-6C63FF?style=flat-square" />
 </p>
 <!-- END_WAKA_TODAY -->
 
