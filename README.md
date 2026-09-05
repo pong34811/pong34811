@@ -20,16 +20,16 @@ Dev สาย Automation จาก Thailand<br/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Today-3%20hrs%202%20mins-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Today-5%20hrs%209%20mins-6C63FF?style=for-the-badge" />
 </p>
 
 ```
-Other      ████████████████████████████████████████  100%    3h 2m
-Python     ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0%       0m
+Other      ████████████████████████████████████████  99%    5h 7m
+Python     ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   1%       1m
 ```
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Editor-Edge%203h 2m-0078D7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Editor-Edge%205h 9m-0078D7?style=flat-square" />
 </p>
 <!-- END_WAKA_TODAY -->
 
