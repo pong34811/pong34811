@@ -51,5 +51,24 @@ class TestUpdateWaka(unittest.TestCase):
         expected = "Header\n<!-- START_WAKA_TODAY -->\nNew content\n<!-- END_WAKA_TODAY -->\nFooter"
         self.assertEqual(res, expected)
 
+    def test_update_actual_readme(self):
+        readme_path = os.path.join(os.path.dirname(__file__), "..", "..", "README.md")
+        with open(readme_path, "r", encoding="utf-8") as f:
+            content = f.read()
+
+        sample_data = {
+            "grand_total": {"total_seconds": 8640, "text": "2 hrs 24 mins"},
+            "languages": [{"name": "Python", "percent": 70, "total_seconds": 6000}],
+            "editors": [{"name": "Edge", "total_seconds": 8640}],
+            "projects": [{"name": "traztru-backend", "total_seconds": 6000}]
+        }
+        block = generate_block(sample_data)
+        updated = update_readme_text(content, block)
+        self.assertIn("<!-- START_WAKA_TODAY -->", updated)
+        self.assertIn("<!-- END_WAKA_TODAY -->", updated)
+        self.assertIn("Project-traztru--backend", updated)
+        self.assertIn("## Skills & Tools", updated)
+        self.assertIn("## Connect", updated)
+
 if __name__ == "__main__":
     unittest.main()
