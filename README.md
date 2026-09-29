@@ -20,15 +20,20 @@ Dev สาย Automation จาก Thailand<br/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Today-2%20hrs%2024%20mins-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Today-9%20hrs%2048%20mins-6C63FF?style=for-the-badge" />
 </p>
 
 ```
-Other      ████████████████████████████████████████  100%   2h 24m
+Other      ████████████████████████████████████████  99%   9h 40m
+Python     ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   1%       8m
 ```
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Editor-Edge%202h 24m-0078D7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Editor-Edge%209h%2048m-0078D7?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Project-pong34811%205h%2055m-3776AB?style=flat-square" />  <img src="https://img.shields.io/badge/Project-youtube_dowloader_2026%203h%2050m-3776AB?style=flat-square" />  <img src="https://img.shields.io/badge/Project-ai--vtuber--2026%200m-3776AB?style=flat-square" />  <img src="https://img.shields.io/badge/Project-download--video%200m-3776AB?style=flat-square" />
 </p>
 <!-- END_WAKA_TODAY -->
 
