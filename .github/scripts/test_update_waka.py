@@ -67,8 +67,8 @@ class TestUpdateWaka(unittest.TestCase):
         self.assertIn("<!-- START_WAKA_TODAY -->", updated)
         self.assertIn("<!-- END_WAKA_TODAY -->", updated)
         self.assertIn("Project-traztru--backend", updated)
-        self.assertIn("## Skills & Tools", updated)
-        self.assertIn("## Connect", updated)
+        self.assertIn("## 🛠 SKILLS", updated)
+        self.assertIn("## 🔗 CONNECT", updated)
 
 if __name__ == "__main__":
     unittest.main()
