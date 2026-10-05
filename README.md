@@ -48,20 +48,20 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Today-11%20hrs-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Today-46%20mins-6C63FF?style=for-the-badge" />
 </p>
 
 ```
-Other      ██████████████████████████████████████░░  96%   10h 33m
-Python     ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   4%      27m
+Other      ██████████████████████████████████████░░  95%      43m
+Python     ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   5%       2m
 ```
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Editor-Edge%2011h%200m-0078D7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Editor-Edge%2046m-0078D7?style=flat-square" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Project-agent--seacrh--virus--cut%207h%2031m-3776AB?style=flat-square" />  <img src="https://img.shields.io/badge/Project-agent--edite--davinci_resolve%203h%2021m-3776AB?style=flat-square" />  <img src="https://img.shields.io/badge/Project-agent_download_youtube_vdo%204m-3776AB?style=flat-square" />  <img src="https://img.shields.io/badge/Project-yt_thumbnail_creator%201m-3776AB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Project-agent--seacrh--virus--cut%2043m-3776AB?style=flat-square" />  <img src="https://img.shields.io/badge/Project-VtuberTHRanking%202m-3776AB?style=flat-square" />  <img src="https://img.shields.io/badge/Project-webapp_upload%200m-3776AB?style=flat-square" />
 </p>
 <!-- END_WAKA_TODAY -->
 
