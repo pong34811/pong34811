@@ -48,20 +48,20 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Today-7%20hrs%2043%20mins-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Today-21%20mins-6C63FF?style=for-the-badge" />
 </p>
 
 ```
-Other      ████████████████████████████████████████  99%   7h 41m
-Python     ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   1%       2m
+Other      ██████████████████████████████████████░░  94%      20m
+Python     ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   6%       1m
 ```
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Editor-Edge%207h%2043m-0078D7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Editor-Edge%2011m-0078D7?style=flat-square" />  <img src="https://img.shields.io/badge/Editor-Chrome%2010m-6C63FF?style=flat-square" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Project-orca%205h%202m-3776AB?style=flat-square" />  <img src="https://img.shields.io/badge/Project-agent--thumbnail%202h%202m-3776AB?style=flat-square" />  <img src="https://img.shields.io/badge/Project-VtuberTHRanking%2038m-3776AB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Project-orca%2020m-3776AB?style=flat-square" />  <img src="https://img.shields.io/badge/Project-Hermes_WakaTime%200m-3776AB?style=flat-square" />  <img src="https://img.shields.io/badge/Project-agent--edite--davinci_resolve%200m-3776AB?style=flat-square" />  <img src="https://img.shields.io/badge/Project-discord--wakatime%200m-3776AB?style=flat-square" />
 </p>
 <!-- END_WAKA_TODAY -->
 
