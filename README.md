@@ -48,20 +48,20 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Today-7%20hrs%2032%20mins-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Today-53%20mins-6C63FF?style=for-the-badge" />
 </p>
 
 ```
-Other      ████████████████████████████████████████  99%   7h 28m
-Python     ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   1%       4m
+Other      █████████████████████████░░░░░░░░░░░░░░░  62%      33m
+Python     ███████████████░░░░░░░░░░░░░░░░░░░░░░░░░  38%      20m
 ```
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Editor-Edge%207h%2015m-0078D7?style=flat-square" />  <img src="https://img.shields.io/badge/Editor-Chrome%2016m-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Editor-Edge%2053m-0078D7?style=flat-square" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Project-Kdenlive--mcp%206h%2038m-3776AB?style=flat-square" />  <img src="https://img.shields.io/badge/Project-davinci--resolve--mcp%2051m-3776AB?style=flat-square" />  <img src="https://img.shields.io/badge/Project-agentcut%200m-3776AB?style=flat-square" />  <img src="https://img.shields.io/badge/Project-OpenChatCut%200m-3776AB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Project-Kdenlive--mcp%2031m-3776AB?style=flat-square" />  <img src="https://img.shields.io/badge/Project-agent--thumbnail%2015m-3776AB?style=flat-square" />  <img src="https://img.shields.io/badge/Project-agent--create--subtitle%205m-3776AB?style=flat-square" />  <img src="https://img.shields.io/badge/Project-davinci--resolve--mcp%200m-3776AB?style=flat-square" />
 </p>
 <!-- END_WAKA_TODAY -->
 
