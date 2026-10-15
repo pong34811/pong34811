@@ -48,20 +48,20 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Today-9%20hrs%2010%20mins-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Today-28%20mins-6C63FF?style=for-the-badge" />
 </p>
 
 ```
-Other      ████████████████████████████████████████  100%    9h 9m
-Python     ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0%       1m
+Other      ███████████████████████████████████████░  98%      27m
+Python     █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   2%       0m
 ```
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Editor-Edge%209h%206m-0078D7?style=flat-square" />  <img src="https://img.shields.io/badge/Editor-Chrome%204m-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Editor-Edge%2028m-0078D7?style=flat-square" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Project-agent--edite--davinci_resolve%209h%209m-3776AB?style=flat-square" />  <img src="https://img.shields.io/badge/Project-agent--thumbnail%201m-3776AB?style=flat-square" />  <img src="https://img.shields.io/badge/Project-webapp_upload%200m-3776AB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Project-agent--edite--davinci_resolve%2027m-3776AB?style=flat-square" />  <img src="https://img.shields.io/badge/Project-orca%200m-3776AB?style=flat-square" />
 </p>
 <!-- END_WAKA_TODAY -->
 
