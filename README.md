@@ -48,20 +48,20 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Today-22%20mins-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Today-5%20hrs%208%20mins-6C63FF?style=for-the-badge" />
 </p>
 
 ```
-Other      ███████████████████████████████████████░  97%      22m
-Python     █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   3%       0m
+Other      ██████████████████████████████████████░░  95%   4h 52m
+Python     ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   5%      16m
 ```
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Editor-Edge%2022m-0078D7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Editor-Edge%205h%208m-0078D7?style=flat-square" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Project-codex%2022m-3776AB?style=flat-square" />  <img src="https://img.shields.io/badge/Project-agent--create--subtitle%200m-3776AB?style=flat-square" />  <img src="https://img.shields.io/badge/Project-katy404_notify_social%200m-3776AB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Project-katy404_notify_social%204h%2042m-3776AB?style=flat-square" />  <img src="https://img.shields.io/badge/Project-codex%2022m-3776AB?style=flat-square" />  <img src="https://img.shields.io/badge/Project-agent--upload--social%203m-3776AB?style=flat-square" />  <img src="https://img.shields.io/badge/Project-agent--create--subtitle%200m-3776AB?style=flat-square" />
 </p>
 <!-- END_WAKA_TODAY -->
 
