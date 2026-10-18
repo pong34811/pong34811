@@ -48,19 +48,19 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Today-1%20hr%2049%20mins-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Today-8%20hrs%203%20mins-6C63FF?style=for-the-badge" />
 </p>
 
 ```
-Other      ████████████████████████████████████████  100%   1h 49m
+Other      ████████████████████████████████████████  100%    8h 3m
 ```
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Editor-Chrome%201h%2049m-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Editor-Edge%206h%2014m-0078D7?style=flat-square" />  <img src="https://img.shields.io/badge/Editor-Chrome%201h%2049m-6C63FF?style=flat-square" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Project-agent--edite--davinci_resolve%201h%2049m-3776AB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Project-agent--edite--davinci_resolve%208h%203m-3776AB?style=flat-square" />
 </p>
 <!-- END_WAKA_TODAY -->
 
