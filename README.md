@@ -48,20 +48,20 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Today-5%20hrs%2010%20mins-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Today-7%20hrs%2049%20mins-6C63FF?style=for-the-badge" />
 </p>
 
 ```
-Other      ████████████████████████████████████████  99%    5h 6m
+Other      ████████████████████████████████████████  99%   7h 45m
 Python     ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   1%       3m
 ```
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Editor-Edge%205h%2010m-0078D7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Editor-Edge%207h%2049m-0078D7?style=flat-square" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Project-katy404_notify_social%202h%2052m-3776AB?style=flat-square" />  <img src="https://img.shields.io/badge/Project-freellmapi%202h%2017m-3776AB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Project-freellmapi%204h%2056m-3776AB?style=flat-square" />  <img src="https://img.shields.io/badge/Project-katy404_notify_social%202h%2052m-3776AB?style=flat-square" />
 </p>
 <!-- END_WAKA_TODAY -->
 
