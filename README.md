@@ -48,20 +48,20 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Today-10%20hrs%2048%20mins-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Today-45%20mins-6C63FF?style=for-the-badge" />
 </p>
 
 ```
-Other      ███████████████████████████████████████░  98%   10h 34m
-Python     █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   2%      13m
+Other      ███████████████████████████████████████░  98%      44m
+Python     █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   2%       0m
 ```
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Editor-Edge%2010h%2048m-0078D7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Editor-Edge%2045m-0078D7?style=flat-square" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Project-freellmapi%208h%205m-3776AB?style=flat-square" />  <img src="https://img.shields.io/badge/Project-agent--upload--social%202h%2041m-3776AB?style=flat-square" />  <img src="https://img.shields.io/badge/Project-rea%200m-3776AB?style=flat-square" />  <img src="https://img.shields.io/badge/Project-skills%200m-3776AB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Project-agent--upload--social%2044m-3776AB?style=flat-square" />  <img src="https://img.shields.io/badge/Project-rea%200m-3776AB?style=flat-square" />
 </p>
 <!-- END_WAKA_TODAY -->
 
